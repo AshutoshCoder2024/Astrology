@@ -1,17 +1,17 @@
 // Zodiac_signs size 12
 const zodiac_signs = [
-  "Aries", // Mesha (मेष)
-  "Taurus", // Vrishabha (वृषभ)
-  "Gemini", // Mithuna (मिथुन)
-  "Cancer", // Karka (कर्क)
-  "Leo", // Simha (सिंह)
-  "Virgo", // Kanya (कन्या)
-  "Libra", // Tula (तुला)
-  "Scorpio", // Vrishchika (वृश्चिक)
-  "Sagittarius", // Dhanu (धनु)
-  "Capricorn", // Makara (मकर)
-  "Aquarius", // Kumbha (कुंभ)
-  "Pisces", // Meena (मीन)
+  "Aries", 
+  "Taurus", 
+  "Gemini", 
+  "Cancer", 
+  "Leo", 
+  "Virgo", 
+  "Libra", 
+  "Scorpio", 
+  "Sagittarius", 
+  "Capricorn", 
+  "Aquarius", 
+  "Pisces", 
 ];
 
 // complement size 31
@@ -73,7 +73,7 @@ const victimCardCompliments = [
   "You always do good, but the world never repays you the same way.",
 ];
 
-//  for Select lifeRecommendations  we use name sur name and day
+//  for Select lifeRecommendations   use name and surname and day
 // ashutosh sahu  22
 // 8*4 * 22= 704%30 = 14 which belong to 0-29
 // life recommendations  size 30
